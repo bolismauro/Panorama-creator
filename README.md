@@ -2,7 +2,7 @@ Image stitching - Panorama
 ====================
 A Matlab Image stitching implementation using SIFT and RANSAC.
 
-This software has been created for an accademic exam (Digital Imaging) in Bicocca University.
+This software has been created for an academic exam (Digital Imaging) in Bicocca University.
 Code include (and, of course, use) the following libraries:
   * [SIFT implementation](http://www.vlfeat.org/~vedaldi/code/sift.html)
   * [White Balance - gray world](http://code.google.com/p/cfacompression/source/browse/trunk/demosaic/freq/whiteBalance.m?r=2)
